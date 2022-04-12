@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vandana002
+- 👋 Hi, I’m @vandana
 - 👀 I’m interested in web development,IoT,cloud computing.
-- 🌱 I’m currently learning UI-UX,IoT. 
-- 💞️ I’m looking to collaborate on frontend and backend programmers,IoT developers
+- 🌱 I’m currently learning Cloud,IoT,Salesforce. 
+- 💞️ I’m a 3rd year computer science student.
 - 📫 How to reach me : linkedin-www.linkedin.com/in/vandana-muppavarapu-909717202
 
 <!---
