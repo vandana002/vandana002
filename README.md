@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vandana
-- 👀 I’m interested in web development,IoT,cloud computing.
-- 🌱 I’m currently learning Cloud,IoT,Salesforce. 
-- 💞️ I’m a 3rd year computer science student.
+- 👀 I’m interested in IoT,cloud computing.
+- 🌱 I’m currently learning Cloud,IoT,Salesforce and web development
+- 💞️ I’m a 4th year computer science student.
 - 📫 How to reach me : linkedin-www.linkedin.com/in/vandana-muppavarapu-909717202
 
 <!---
